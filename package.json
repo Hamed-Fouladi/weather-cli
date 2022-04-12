@@ -15,16 +15,16 @@
 		"cli",
 		"weather"
 	],
-	"author": "Anton Larichev",
+	"author": "Hamed Fouladi",
 	"license": "ISC",
-	"homepage": "https://purpleschool.ru",
+	"homepage": "https://github.com/Hamed-Fouladi/weather-cli",
 	"repository": {
 		"type": "git",
-		"url": "https://purpleschool.ru"
+		"url": "https://github.com/Hamed-Fouladi/weather-cli"
 	},
 	"bugs": {
-		"url": "https://purpleschool.ru",
-		"email": "antonlarichev@gmail.com"
+		"url": "https://github.com/Hamed-Fouladi/weather-cli",
+		"email": "hamed.fouladi27@gmail.com"
 	},
 	"dependencies": {
 		"axios": "^0.21.4",
